@@ -24,8 +24,28 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
+```
+```c
+#include <stdio.h>
+
+int main()
+{
+  printf("hello world");
+  return 0;
+}
+```
+```java
+class Demo{
+  int a;
+  String b;
+  public static void main(){
+    b="hello world";
+    System.out.println(b);
+  }
+
+}
+```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
