@@ -8,7 +8,7 @@
 
 ```c++
 #include <iostream>
-using name space std;
+using namespace std;
 
 int main( int argc, char *argv[])
 {
