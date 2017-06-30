@@ -8,44 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-```
-```c
-#include <stdio.h>
-
-int main()
-{
-  printf("hello world");
-  return 0;
-}
-```
-```java
-class Demo{
-  int a;
-  String b;
-  public static void main(){
-    b="hello world";
-    System.out.println(b);
-  }
-
-}
-```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
@@ -55,3 +18,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Html Notes
+
+This is a repository for learning html,all notes are saved in MarkDown file.
+
+[repository home page]()
