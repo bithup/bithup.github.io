@@ -23,4 +23,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 This is a repository for learning html,all notes are saved in MarkDown file.
 
-[repository home page]()
+[repository home page](https://bithup.github.io/html-notes/)
